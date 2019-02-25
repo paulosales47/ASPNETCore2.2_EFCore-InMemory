@@ -1,0 +1,1 @@
+* Utilizado para estudo. [link](https://medium.com/@renato.groffe/asp-net-core-docker-compose-implementando-solu%C3%A7%C3%B5es-web-multi-containers-5f46d22a2ca0)
